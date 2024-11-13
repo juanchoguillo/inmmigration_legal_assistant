@@ -9,4 +9,4 @@ faiss-cpu
 langchain-groq
 streamlit 
 duckduckgo-search
-email.mime.text
+
